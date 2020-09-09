@@ -1,3 +1,9 @@
+<span class="module"><a href="https://github.com/bang9/react-native-kakao-link-js" title="View this project"><img src="https://img.shields.io/badge/React Native-react--native--wrapped--text-black?style=flat-square&logo=react" alt="RNWrappedText" /></a></span>
+
+<span class="npmversion"><a href="https://npmjs.org/package/react-native-kakao-link-js" title="View this project on NPM"><img src="https://img.shields.io/npm/v/react-native-kakao-link-js.svg" alt="NPM version" /></a></span>
+<span class="npmdownloads"><a href="https://npmjs.org/package/react-native-kakao-link-js" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/react-native-kakao-link-js.svg" alt="NPM downloads" /></a></span>
+
+
 # react-native-kakao-link-js
 
 -   네이티브 의존성 없이, 카카오 링크를 사용하기 위한 모듈입니다. (웹뷰를 통해 자바스크립트 SDK 를 사용합니다.)
