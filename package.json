@@ -1,6 +1,6 @@
 {
     "name": "react-native-kakao-link-js",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "kakao links for react native without native dependency (except webview!)",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",

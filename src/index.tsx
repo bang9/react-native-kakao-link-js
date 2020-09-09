@@ -61,6 +61,7 @@ export default class KakaoLink extends React.PureComponent<Props> {
         }
         return true;
     };
+    private renderNone = () => null;
     render() {
         return (
             <WebView
@@ -70,6 +71,7 @@ export default class KakaoLink extends React.PureComponent<Props> {
                 ref={this.webview}
                 allowsInlineMediaPlayback={false}
                 source={this.source}
+                renderError={this.renderNone}
             />
         );
     }
